@@ -1,15 +1,14 @@
-# Code 201 Reading Notes
-
-Assignment 1
-
-**Assignmemt 2**
-
-*Assignment 3*
-
->Assignemnt 4
->
->Assignemnt 5
-
-1. Assignment 6
-2. Assignment 7
-3. Assignment 8
+<html>
+  <head>
+  <title>Class 01 Notes</title>
+  </head>
+  <body>
+    <h1>Class 01 Reading Notes Sept 25th 2021</h1>
+    <h2>Chapter 1 Structure</h2>
+    <p> Summary per page 38:</p>
+    <p> => HTML pages are text documents</p>
+    <p> => HTML uses tags, which are characters that sit inside angled brackets</p>
+    <p> => Tags are often refered to as elements</p>
+    <p> => Opening tags can carry attributes, which tell us more about content</p>
+  </body>
+</html>
