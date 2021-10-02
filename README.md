@@ -1,39 +1,30 @@
-# Class-02 Reading Notes HTML Text, CSS Introduction, and Basic JavaScript Instructions
+# Class-03 Notes 
 
-### HTML Book Chapter 2 TEXT (pp 40-61)
+### Ducket HTML/CSS (pp.62-73): Lists
+* Three Types of lists => Ordered, Unordered, Definition
+* Ordered lists use numbers
+* Unordered lists use bullets
+* Definition lists are used to define terminology
 
-Structural markup are the elements to describe both heasdings and paragraphs
-Semantic markup provides extra information
-HTML elements are used to describe structure and semantic
-Structutal element examples are Headings, Paragraphs, Bold, Italics,li, ne breaks, others
-Semantic elements examples are strong, em, blockquote, abbr, cite, others
+### Ducket HTML/CSS (pp.300-329): Boxes
+* CSS treats each HTML element as if it has its own box
+* Use CSS to control dimesnions of box
+* Use CSS to control borders, margins and padding
+* Block-level boxes can be made into inline boxes and inline bnoxes made into block-level
+* Improve legibility by controlling width of boxes
+* CSS3 has the ability to create image borders and rounded borders
 
-### Chapter 10: HTML Book Ch.10 “Introducing CSS” (pp.226-245)
+### Ducket JS (pp. 70-73): Arrays
+* An array is a special variable
+* It can store one or more than one variable
+* Values in an array are accessed as if they are in a numbered list
+* Numbering list starts with zero
 
-CSS is Cascade Style Sheets
-CSS associates style rules with HTML elements
-* A CSS rule contains 2 parts: a selector and a declaration
-* p { = selector
-* font-family : Arial;} = declaration
-CSS properties affect how elements are displayed
-* Specify several properties in one declaration
-* { font-family: = property 1
-* color: = property 2
-
-### Chapter 2: JS Book Basic JavaScript Instructions (pp.53-84)
-
-Statements are used in JavaScript to control program flow
-Write comments to explain what code does
-A variable stores the data value that can be changed later on
-Use the reserved keyword var to declare a variable in JavaScript
-* Syntax: var <variable-name>; var <variable-name> = <value>
-* Data Types: Numeric, String, Boolean, Array
-  
-### Chapter 4: Decisions and Loops only up to the section on switch statements (pp.145-162)
-
-Use flowcharts to plan for decision making in the script
-* diamond represents a decision point
-* set condition to determine path
+### Ducket JS (pp. 162-182): Decision and Loops
+* Conditional statements allows decision making for what is next
+* Operators to compare two operands are: ===, !==, ==, !=,<, >, <=,=>
+* Logical operators allow you to combine more than one set of comparison operators 
+* Use if..else statements to run one output depending if condition is true or false
 Evaluating conditions
 * Use comparison operators to determine true or false
 * Equal ==
