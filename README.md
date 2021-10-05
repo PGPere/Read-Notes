@@ -1,33 +1,24 @@
-# Class-03 Notes 
+# Class-04 Notes 
 
-### Ducket HTML/CSS (pp.62-73): Lists
-* Three Types of lists => Ordered, Unordered, Definition
-* Ordered lists use numbers
-* Unordered lists use bullets
-* Definition lists are used to define terminology
+### Ducket HTML/CSS  Links (pp.74-93)
+* Use the <a> element to create Links
+* Use the href attribute to indicate the page you are linking to
+* Use relative Links within my own site
+* You can create links that create emails
 
-### Ducket HTML/CSS (pp.300-329): Boxes
-* CSS treats each HTML element as if it has its own box
-* Use CSS to control dimesnions of box
-* Use CSS to control borders, margins and padding
-* Block-level boxes can be made into inline boxes and inline bnoxes made into block-level
-* Improve legibility by controlling width of boxes
-* CSS3 has the ability to create image borders and rounded borders
+### Ducket HTML/CSS Layout (pp.358-404)
+* Block-level elements start on a new line
+* Inline elements flow in between text
+* Positioning schemes are normal (i.e. static), relative, absolute, fixed and floating
+* Grids help create professional and flexible designs
 
-### Ducket JS (pp. 70-73): Arrays
-* An array is a special variable
-* It can store one or more than one variable
-* Values in an array are accessed as if they are in a numbered list
-* Numbering list starts with zero
+### Ducket JS Functions, Methods, and Objects (pp.86-99 ONLY)
+* Functions let you group a series of statements together to perform a specific task
+* Function declaration is when you create a function, give it a name and then write statements to achieve the task
+* Calling the function happens after declaration and when code is executed
+* Location of variables affects where it can be used
 
-### Ducket JS (pp. 162-182): Decision and Loops
-* Conditional statements allows decision making for what is next
-* Operators to compare two operands are: ===, !==, ==, !=,<, >, <=,=>
-* Logical operators allow you to combine more than one set of comparison operators 
-* Use if..else statements to run one output depending if condition is true or false
-Evaluating conditions
-* Use comparison operators to determine true or false
-* Equal ==
-* not equal !=
-* strict equal ===
-* greater than >
+### Article: “6 Reasons for Pair Programming”
+* It is useful to write better code
+* Somebody is the driver, somebody is the navigator
+* Helps you get better at working with other and learning from your partner
