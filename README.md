@@ -1,24 +1,26 @@
-# Class-04 Notes 
+# Class-05 Notes 
 
-### Ducket HTML/CSS  Links (pp.74-93)
-* Use the <a> element to create Links
-* Use the href attribute to indicate the page you are linking to
-* Use relative Links within my own site
-* You can create links that create emails
+### Ducket HTML/CSS  Chapter 5: “Images” (pp.94-125)
+* The HTML <img> tag is used to embed an image in a web page.
+* Images are not technically inserted into a web page; images are linked to web pages. 
+* The <img> tag creates a holding space for the referenced image.
+* The <img> tag is empty, it contains attributes only, and does not have a closing tag.
+* The <img> tag has two required attributes:
+** src - Specifies the path to the image
+** alt - Specifies an alternate text for the image
 
-### Ducket HTML/CSS Layout (pp.358-404)
-* Block-level elements start on a new line
-* Inline elements flow in between text
-* Positioning schemes are normal (i.e. static), relative, absolute, fixed and floating
-* Grids help create professional and flexible designs
+### Ducket HTML/CSS LChapter 11: “Color” (pp.246-263)
+* As RGB values. An RGB color value is specified with: rgb( RED,GREEN,BLUE)
+* As hexadecimal values. A hexadecimal color is specified with: #RRGGBB. RR (red), GG (green) and BB (blue) 
+* Or hexadecimal integers between 00 and FF specifying the intensity of the color.
+* As HSL values (CSS3)
 
-### Ducket JS Functions, Methods, and Objects (pp.86-99 ONLY)
-* Functions let you group a series of statements together to perform a specific task
-* Function declaration is when you create a function, give it a name and then write statements to achieve the task
-* Calling the function happens after declaration and when code is executed
-* Location of variables affects where it can be used
+### Ducket HTML/CSS FChapter 12: “Text” (pp.264-299)
+* Properties control choice of font, size, weight, style and spacing.
+* You need licenses to use a wide range of typefaces
+* You can control the space between lines, letters and words.
 
-### Article: “6 Reasons for Pair Programming”
-* It is useful to write better code
-* Somebody is the driver, somebody is the navigator
-* Helps you get better at working with other and learning from your partner
+### Blog posting JPEG vs PNG vs GIF
+* JPEG format is for all images that contain a natural scene or photograph.
+* PNG format is for any image that needs transparency or for images with text & objects.
+* GIF format is for images that contain animations.
