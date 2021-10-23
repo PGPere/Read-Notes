@@ -1,4 +1,14 @@
 
 # Class-08 Notes 
 
-### HTML/CSS book, Ch. 15, “Layout” (repeat)
+### HTML/CSS book, Ch. 15, “Layout” (repeat 358-404)
+* Block-level elements start on a new line
+* Inline elements flow in between text
+* Positioning schemes are normal (i.e. static), relative, absolute, fixed and floating
+* Grids help create professional and flexible designs
+* Many web pages use multiple columns in their design
+* Key CSS properties for positioning columns next to each other are: width, float and margin.
+* Optimal display width is between 960 and 1000 pixels
+* Fixed witdhts layout designs do not change size
+* Liquid layout designs stretch and contract
+
