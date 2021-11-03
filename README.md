@@ -4,7 +4,7 @@
 # Article EASILY CREATE STUNNING ANIMATED CHARTS WITH CHART.JS
 * 1st thing; download Chart.js. and then copy the Chart.min.js out of the unzipped folder and into the directory. 
 * Then create a new html page and import the script:
-* <!DOCTYPE html>
+<!-- * <!DOCTYPE html>
 * <html lang="en">
 *    <head>
 *       <meta charset="utf-8" />
@@ -13,7 +13,7 @@
 *   </head>
 *   <body>
 *  </body>
-* </html>
+* </html> -->
 * To draw a line chart, create a canvas element in HTML in which Chart.js can draw our chart. 
 * So add this to the body of our HTML page: <canvas id="buyers" width="600" height="400"></canvas>
 *
