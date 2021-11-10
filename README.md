@@ -1,6 +1,6 @@
-### Class 13 Notes
+# Class 13 Notes
 
-# THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
+### THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
 * A way for web pages to store named key/value pairs locally, within the client web browser.
 * The data persists even after you navigate away from the web site, close your browser tab, exit your browser, or what have you. 
 * Data is never transmitted to the remote web server.
