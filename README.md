@@ -1,11 +1,11 @@
-# Class 13 Notes
+# Class 14 Notes
 
-### THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
-* A way for web pages to store named key/value pairs locally, within the client web browser.
-* The data persists even after you navigate away from the web site, close your browser tab, exit your browser, or what have you. 
-* Data is never transmitted to the remote web server.
-* It is implemented natively in web browsers, so it is available even when third-party browser plugins are not.
-* Store data based on a named key, then you can retrieve that data with the same key. 
-* The named key is a string. The data can be any type supported by JavaScript, including strings, Booleans, integers, or floats. 
-* The data is actually stored as a string. Other than strings, use functions like parseInt() or parseFloat() to coerce your retrieved 
-* data into the expected JavaScript datatype.
+* What Google Learned From Its Quest to Build the Perfect Team?
+* I am citing the major findings of the article below;
+* - For Project Aristotle, research on psychological safety pointed to particular norms that are vital to success. 
+* - There were other behaviors that seemed important as well — like making sure teams had clear goals and creating a culture of dependability. 
+* - But Google’s data indicated that psychological safety, more than anything else, was critical to making a team work.
+* - Project Aristotle is a reminder that when companies try to optimize everything, it’s sometimes easy to forget that success is often built on experiences.
+* — Like emotional interactions and complicated conversations and discussions of who we want to be and how our teammates make us feel — that can’t really be 
+* - optimized. 
+
