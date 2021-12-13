@@ -1,0 +1,15 @@
+# 301 Class 01 Notes
+
+## Components Based Architecture 
+* Component-based architecture focuses on the decomposition of the design into individual functional or 
+* logical components that represent well-defined communication interfaces containing methods, events, and properties. 
+* It provides a higher level of abstraction and divides the problem into sub-problems, each associated with component partitions.
+* Source:https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
+
+## Props 
+* What is Props?
+* React is a component-based library that divides the UI into little reusable pieces. In some cases, those components need to communicate 
+* (send data to each other) and the way to pass data between components is by using props.
+* “Props” is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
+* But the important part here is that data with props are being passed in a uni-directional flow. (one way from parent to child)
+* Furthermore, props data is read-only, which means that data coming from the parent should not be changed by child components.
