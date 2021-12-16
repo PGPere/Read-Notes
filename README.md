@@ -10,8 +10,6 @@
 
 ## Code 401 - Advanced Software Development
 
-# Code 301: Intermediate Software Development
-
 ## Notes Overview
 
 My notes include 201 Foundation and 301 Intermediate material. The focus is to capture information about :
