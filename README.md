@@ -6,9 +6,9 @@
 
 [## Code 201 - Foundations of Software Development](https://github.com/PGPere/Read-Notes/tree/main/Class201)
 
-## Code 301 - Intermediate Software Development
+[## Code 301 - Intermediate Software Development](https://github.com/PGPere/Read-Notes/tree/main/Class301)
 
-## Code 401 - Advanced Software Development
+[## Code 401 - Advanced Software Development](https://github.com/PGPere/Read-Notes/tree/main/Class401)
 
 ## Notes Overview
 
